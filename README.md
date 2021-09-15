@@ -11,6 +11,15 @@
 
 * We propose a low-illumination facial image enhancement system with Generative Adversarial Network for Low-light Age Estimation (LAE-GAN), and CNN models for age estimation. These systems are designed to overcome the performance degradation caused by low-illumination environment. Three open databases named as MORPH [1], FG-Net [2], and AFAD [3] are used for experiments. LAE-GAN and age estimation models are opened to other researchers for fair judgement.
 
+**[1] MORPH database. Available online: https://ebill.uncw.edu/C20231_ustores/web/store_main.jsp?STOREID=4 (accessed on 17 May 2021)**
+<br/>
+
+**[2] FGNET database. Available online: https://yanweifu.github.io/FG_NET_data/index.html (accessed on 17 May 2021).**
+<br/>
+
+**[3] AFAD database. Available online: https://afad-dataset.github.io (accessed on 17 May 2021).**
+<br/>
+
 ## Implementation
 * Python >= 3.5
 * Tensorflow >= 2.2.0
