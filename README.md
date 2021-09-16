@@ -25,3 +25,7 @@ We propose a low-illumination facial image enhancement system with Generative Ad
 * Python >= 3.5
 * Tensorflow >= 2.2.0
 * Window 10 or Unbuntu 10.4
+
+## Model weights (LAE-GAN and DEX)
+* [LAE-GAN with MORPH, FG-NET, and AFAD database](https://drive.google.com/drive/folders/14l0EtfDaIeMeamQuoIRN6sPqp1-WLbTN=sharing)
+* [DEX with MORPH, FG-NET, ad AFAD](https://drive.google.com/drive/folders/1zGB3G2MUJftM4AYuncJU66n6QVXdomVD)
